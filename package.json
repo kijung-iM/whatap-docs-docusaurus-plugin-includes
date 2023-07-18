@@ -1,5 +1,5 @@
 {
-  "name": "docusaurus-plugin-includes",
+  "name": "@whatap-docs/docusaurus-plugin-includes",
   "version": "1.1.4",
   "description": "Include plugin for Docusaurus.",
   "main": "lib/index.js",
@@ -12,14 +12,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/simologos/docusaurus-plugin-includes.git"
+    "url": "git+https://github.com/whatap-docs/docusaurus-plugin-includes.git"
   },
   "license": "MIT",
   "dependencies": {
+    "@docusaurus/core": "^2.0.0-beta.5",
+    "@docusaurus/types": "^2.0.0-beta.5",
+    "@docusaurus/utils": "^2.0.0-beta.5",
     "fs-extra": "^10.0.0",
     "path": "^0.12.7"
   },
   "devDependencies": {
+    "@docusaurus/module-type-aliases": "^2.0.0-beta.5",
     "@tsconfig/docusaurus": "^1.0.2",
     "@types/fs-extra": "^9.0.11",
     "@types/node": "^16.7.6",
