@@ -1,6 +1,6 @@
 {
   "name": "@whatap-docs/docusaurus-plugin-includes",
-  "version": "1.1.4",
+  "version": "0.0.0",
   "description": "Include plugin for Docusaurus.",
   "main": "lib/index.js",
   "scripts": {
