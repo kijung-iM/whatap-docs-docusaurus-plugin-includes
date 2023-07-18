@@ -12,13 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/whatap-docs/docusaurus-plugin-includes.git"
+    "url": "https://github.com/simologos/docusaurus-plugin-includes.git"
   },
   "license": "MIT",
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-beta.5",
-    "@docusaurus/types": "^2.0.0-beta.5",
-    "@docusaurus/utils": "^2.0.0-beta.5",
     "fs-extra": "^10.0.0",
     "path": "^0.12.7"
   },
