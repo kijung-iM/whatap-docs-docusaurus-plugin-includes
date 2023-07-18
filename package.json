@@ -1,5 +1,5 @@
 {
-  "name": "@whatap-docs/docusaurus-plugin-includes",
+  "name": "@whatap/docusaurus-plugin-includes",
   "version": "0.0.0",
   "description": "Include plugin for Docusaurus.",
   "main": "lib/index.js",
