@@ -20,7 +20,6 @@
     "path": "^0.12.7"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "^2.0.0-beta.5",
     "@tsconfig/docusaurus": "^1.0.2",
     "@types/fs-extra": "^9.0.11",
     "@types/node": "^16.7.6",
