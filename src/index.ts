@@ -60,7 +60,7 @@ export default function (
           rules: [{
             test: /(\.mdx?)$/,
             include: docsPluginInclude,
-            exclude: [ /\_import\_/, /\_import\//],
+            exclude: /common-items/,
             use: [
               {
                 loader: path.resolve(__dirname, './includesLoader.js'),
